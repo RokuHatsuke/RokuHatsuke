@@ -1,4 +1,7 @@
-### Hi there 👋
+## Welcome to my github profile page!
+
+Welcome to my github profile page.
+My blog: https://rokuhatsuke.github.io
 
 <!--
 **RokuHatsuke/RokuHatsuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
